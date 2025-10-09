@@ -15,15 +15,15 @@ Answer 1
 Answer 2
 
 
-# Hi, I'm Katherine! 👋
-
+# Hi, I'm Hyrahmo! 👋
+I'm opensource developer
 
 ## 🚀 About Me
 I'm a full stack developer...
 
 
 ## 🛠 Skills
-Javascript, HTML, CSS...
+Javascript, HTML, CSS , Python , Rust , C++
 
 
 ## Screenshots
